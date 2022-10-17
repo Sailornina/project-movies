@@ -15,6 +15,6 @@ We constructed an umbrella components App.js where we added the routes and fetch
 
 ## View it live
 
-https://movie-catalogue-project.netlify.app/
+You can see it here ---> https://moviestechnigo.netlify.app/
 
 Created by Antonella Cardozo & Petra Söderström 🍿
